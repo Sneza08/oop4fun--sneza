@@ -1,0 +1,9 @@
+C:\Nastava\PI24\erasmus-acartiaux24\Software\OOP4Fun Demo\OOP4Fun Demo\bin\Debug\OOP4Fun Demo.exe.config
+C:\Nastava\PI24\erasmus-acartiaux24\Software\OOP4Fun Demo\OOP4Fun Demo\bin\Debug\OOP4Fun Demo.exe
+C:\Nastava\PI24\erasmus-acartiaux24\Software\OOP4Fun Demo\OOP4Fun Demo\bin\Debug\OOP4Fun Demo.pdb
+C:\Nastava\PI24\erasmus-acartiaux24\Software\OOP4Fun Demo\OOP4Fun Demo\obj\Debug\OOP4Fun Demo.csproj.AssemblyReference.cache
+C:\Nastava\PI24\erasmus-acartiaux24\Software\OOP4Fun Demo\OOP4Fun Demo\obj\Debug\OOP4Fun_Demo.Properties.Resources.resources
+C:\Nastava\PI24\erasmus-acartiaux24\Software\OOP4Fun Demo\OOP4Fun Demo\obj\Debug\OOP4Fun Demo.csproj.GenerateResource.cache
+C:\Nastava\PI24\erasmus-acartiaux24\Software\OOP4Fun Demo\OOP4Fun Demo\obj\Debug\OOP4Fun Demo.csproj.CoreCompileInputs.cache
+C:\Nastava\PI24\erasmus-acartiaux24\Software\OOP4Fun Demo\OOP4Fun Demo\obj\Debug\OOP4Fun Demo.exe
+C:\Nastava\PI24\erasmus-acartiaux24\Software\OOP4Fun Demo\OOP4Fun Demo\obj\Debug\OOP4Fun Demo.pdb
